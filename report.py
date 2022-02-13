@@ -2,7 +2,6 @@ import requests
 import json
 from datetime import date
 
-
 login_url = "https://app.buaa.edu.cn/uc/wap/login?redirect=https%3A%2F%2Fapp.buaa.edu.cn%2Fsite%2FbuaaStudentNcov%2Findex"
 login_check_url = "https://app.buaa.edu.cn/uc/wap/login/check"
 info_url = "https://app.buaa.edu.cn/buaaxsncov/wap/default/get-info"
