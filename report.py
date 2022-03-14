@@ -83,9 +83,3 @@ if __name__ == '__main__':
     login()
     info = get_info()
     post_info(info)
-
-
-
-
-
-
