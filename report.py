@@ -61,8 +61,8 @@ def sendMail():
     Subject = 'reporter WA'
     # 发送人
     sender = 'reporter'
-    # 收件人
-    recipient = 'ito'
+    # 收件人 todo
+    recipient = 'XXX'
     # 收件人邮箱地址 todo
     to_addrs = 'XXX'
     msg = MIMEText(message, 'plain', _charset="utf-8")
