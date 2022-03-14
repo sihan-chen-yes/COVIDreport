@@ -50,7 +50,6 @@ def post_info(info):
     f.write(str(res_info) + "\n")
     f.write("操作完毕" + "\n\n")
     f.close()
-    print(res_info['e'])
     if res_info['e'] != 0:
         sendMail()
 
