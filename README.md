@@ -1,6 +1,6 @@
-# COVreport
+# COVIDreporter
 
-COV autoreport 本以为最迟2020年疫情打卡就会结束 没想到2022年了还在打卡、还在打卡！
+COVID autoreport 本以为最迟2020年疫情打卡就会结束 没想到2022年了还在打卡、还在打卡！
 
 ~~手写了个玩具实现自动打卡~~
 
