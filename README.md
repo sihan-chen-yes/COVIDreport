@@ -1,5 +1,9 @@
 # COVIDreporter
 
+* Built a auto reporter via Python
+* Used Charles to grasp the http package, then generated a fake one and sent it to the school server
+* Considered the accident, if report failed, an email sent by the reporter to my phone
+
 COVID autoreport 本以为最迟2020年疫情打卡就会结束 没想到2022年了还在打卡、还在打卡！
 
 ~~手写了个玩具实现自动打卡~~
